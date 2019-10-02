@@ -15,9 +15,9 @@ print("My name is Landon Follows")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("let it go")
+print("LET IT GOOO")
+print("Can't Hold It Back Anymore")
 /*:
 
  _Copyright © 2018 Apple Inc._
